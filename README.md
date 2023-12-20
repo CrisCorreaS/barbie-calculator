@@ -1,7 +1,15 @@
 # Calculadora de Barbie
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-Esta es una calculadora diseñada especialmente para Barbie y cualquer entusiasta de la marca
+[![Imagen de la calculadora de Barbie](https://github.com/CrisCorreaS/barbie-calculator/img/visualización/index.png)](https://criscorreas.github.io/barbie-calculator/)
+
+Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la marca, ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**
+
+## Vista previa
+
+### **Vista de la demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
+
+#### ![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/barbie-calculator/img/visualización/index.png)
 
 ## Características
 
@@ -20,10 +28,6 @@ Esta es una calculadora diseñada especialmente para Barbie y cualquer entusiast
 2. Abre el archivo `index.html` en tu navegador web.
 
 ¡Y eso es todo! Ahora Barbie puede realizar sus cálculos de una manera divertida y a la moda.
-
-## Vista previa
-
-![Vista previa de la calculadora para Barbie]()
 
 ## Contribuciones
 
