@@ -1,5 +1,5 @@
 # Calculadora de Barbie
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
 
 [![Imagen de la calculadora de Barbie](https://github.com/CrisCorreaS/barbie-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista.png)](https://criscorreas.github.io/barbie-calculator/)
 
