@@ -1,0 +1,120 @@
+/* Basic style */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #facde4;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+/* Image Style */
+/* Image Style */
+.barbie {
+  width: auto;
+  height: 60px;
+  position: fixed;
+  top: 75px;
+  /* Ajusta este valor según tus necesidades */
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: 2;
+}
+
+/* Center calculator */
+.calculator {
+  position: fixed;
+  top: 322px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+/* Screen, Screen Content, Calculations and Result */
+.screen {
+  height: 150px;
+  background: #dd2388;
+  margin: 20px 20px 20px 20px;
+  margin: auto;
+}
+
+.screenContent {
+  text-align: end;
+  padding: 17px;
+  font-size: 30px;
+  user-select: none;
+}
+
+.calculation {
+  font-size: 12px;
+  color: white;
+  overflow: auto;
+  padding-top: 2rem;
+}
+
+.result {
+  font-size: 2.5rem;
+  padding-top: 1rem;
+  color: #fff;
+}
+
+table {
+  background-color: #f08dbc;
+  border-collapse: collapse;
+}
+
+tr,
+td {
+  border: 0.2px solid #f08dbc;
+  border-collapse: collapse;
+}
+
+.btn {
+  width: 50px;
+  height: 50px;
+  font-size: 22px;
+  cursor: pointer;
+  border: none;
+  background: #ed5d9b;
+  color: white;
+  outline: none;
+}
+
+.operator {
+  color: #ffe5c0;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.math {
+  color: #e8f4ea;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+/* Button Hover */
+input[type="button"]:hover {
+  background-color: #edb5d2;
+  color: #fff;
+  transition: all 0.3s linear;
+}
+
+#point {
+  font-family: "Lato", sans-serif;
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  color: #facde4;
+  background-color: #dd2388;
+  text-align: center;
+}
+
+footer a {
+  color: #edb5d2;
+}

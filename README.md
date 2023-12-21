@@ -3,6 +3,10 @@
 
 Esta es una calculadora diseñada especialmente para Barbie y cualquer entusiasta de la marca
 
+## Vista previa
+
+![Vista previa de la calculadora para Barbie]()
+
 ## Características
 
 - **Interfaz:** Diseño sencillo y colorido adaptado al estilo inconfundible de Barbie.
@@ -20,10 +24,6 @@ Esta es una calculadora diseñada especialmente para Barbie y cualquer entusiast
 2. Abre el archivo `index.html` en tu navegador web.
 
 ¡Y eso es todo! Ahora Barbie puede realizar sus cálculos de una manera divertida y a la moda.
-
-## Vista previa
-
-![Vista previa de la calculadora para Barbie]()
 
 ## Contribuciones
 

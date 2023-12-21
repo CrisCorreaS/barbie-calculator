@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Barbie Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+
+    <!-- Fonts: -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Noto+Sans+JP:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="shortcut icon"
+      type="image/jpg"
+      href="img/logo-flavicon-calculator.png"
+    />
+    <meta name="keywords" content="html,css,js,javascript,calculator,barbie" />
+    <meta
+      name="description"
+      content="Calculadora de Barbie desarrollada con HTML, CSS y JavaScript"
+    />
+    <meta name="author" content="Cristina Correa" />
+    <meta name="generator" content="VSCode" />
+    <meta name="theme-color" content="#facde4" />
+
+    <meta name="google" content="nositelinkssearchbox" />
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="index, nofollow" />
+
+    <meta property="og:title" content="Barbie Calculator" />
+    <meta
+      property="og:description"
+      content="Calculadora de Barbie desarrollada con HTML, CSS y JavaScript"
+    />
+  </head>
+  <body>
+    <img class="barbie" src="img/BarbieLogo.png" alt="barbie-logo" />
+    <!-- CALCULATOR -->
+    <div class="calculator">
+      <!-- SCREEN -->
+      <div class="screen">
+        <div class="screenContent">
+          <p class="calculation">
+            <span id="calculationText"></span>
+          </p>
+          <p class="result">
+            <span id="resultText">0</span>
+          </p>
+        </div>
+      </div>
+
+      <!-- KEYS -->
+      <table>
+        <!-- First row -->
+        <tr>
+          <td>
+            <input class="btn operator" type="button" id="clear" value="C" />
+          </td>
+          <td>
+            <input class="btn operator" type="button" id="back" value="&#60;" />
+          </td>
+          <td>
+            <input
+              class="btn math"
+              type="button"
+              onclick="insert('/')"
+              value="/"
+            />
+          </td>
+          <td>
+            <input
+              class="btn math"
+              type="button"
+              onclick="insert('*')"
+              value="x"
+            />
+          </td>
+        </tr>
+        <!-- Second row -->
+        <tr>
+          <td>
+            <input class="btn" type="button" onclick="insert(7)" value="7" />
+          </td>
+          <td>
+            <input class="btn" type="button" onclick="insert(8)" value="8" />
+          </td>
+          <td>
+            <input class="btn" type="button" onclick="insert(9)" value="9" />
+          </td>
+          <td>
+            <input
+              class="btn math"
+              type="button"
+              onclick="insert('-')"
+              value="-"
+            />
+          </td>
+        </tr>
+        <!-- Third row -->
+        <tr>
+          <td>
+            <input class="btn" type="button" onclick="insert(4)" value="4" />
+          </td>
+          <td>
+            <input class="btn" type="button" onclick="insert(5)" value="5" />
+          </td>
+          <td>
+            <input class="btn" type="button" onclick="insert(6)" value="6" />
+          </td>
+          <td>
+            <input
+              class="btn math"
+              type="button"
+              onclick="insert('+')"
+              value="+"
+            />
+          </td>
+        </tr>
+        <!-- Fourth row -->
+        <tr>
+          <td>
+            <input class="btn" type="button" onclick="insert(1)" value="1" />
+          </td>
+          <td>
+            <input class="btn" type="button" onclick="insert(2)" value="2" />
+          </td>
+          <td>
+            <input class="btn" type="button" onclick="insert(3)" value="3" />
+          </td>
+          <td rowspan="2">
+            <input
+              style="height: 100px"
+              class="btn operator"
+              type="button"
+              id="equal"
+              value="="
+            />
+          </td>
+        </tr>
+        <!-- Fifth row -->
+        <tr>
+          <td colspan="2">
+            <input
+              style="width: 100px"
+              class="btn"
+              type="button"
+              onclick="insert(0)"
+              value="0"
+            />
+          </td>
+          <td>
+            <input
+              class="btn"
+              id="point"
+              type="button"
+              onclick="insert('.')"
+              value="."
+            />
+          </td>
+        </tr>
+      </table>
+    </div>
+    <footer>
+      <small>
+        Icono de Flavicon diseñado por
+        <a href="https://www.flaticon.es/autores/freepik" title="Freepik">
+          Freepik
+        </a>
+        de
+        <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
+      </small>
+    </footer>
+  </body>
+</html>
