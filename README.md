@@ -5,9 +5,9 @@
 
 Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la marca, ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**
 
-## Vista previa
+## Vista Previa
 
-### **Vista de la demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
+### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
 
 #### Vista previa de la calculadora de Barbie
 ![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/barbie-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista.png)
@@ -23,7 +23,7 @@ Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la
 - CSS
 - JavaScript
 
-## Cómo usar
+## Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
@@ -42,7 +42,7 @@ Todos los derechos están reservados para la marca Barbie. Este proyecto es una 
 
 Este proyecto ha sido inspirado por ["Calculator App" de Frontend Projects](https://frontendsprojects.com/calculator/) y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo web. La elección de Barbie como temática es un homenaje a la marca, pero tanto las imágenes como logos pertenecen a Mattel por lo que NO ME PERTENECEN sus derechos y las utilizo únicamente con un fin educativo y de investigación para mejorar como programadora.
 
-## Recursos utilizados
+## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Frontend Projects: Calculator App](https://frontendsprojects.com/calculator/)
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
