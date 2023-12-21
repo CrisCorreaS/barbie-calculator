@@ -9,13 +9,13 @@ Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la
 
 ### **Vista de la demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
 
-#### Vista previa de la calculadira de Barbie
+#### Vista previa de la calculadora de Barbie
 ![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/barbie-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista.png)
 
 ## Características
 
 - **Interfaz:** Diseño sencillo y colorido adaptado al estilo inconfundible de Barbie.
-- **Funciones Matemáticas Básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
+- **Funciones matemáticas básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
 
 ## Tecnologías Utilizadas
 
@@ -28,7 +28,7 @@ Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la
 1. Descarga o clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 
-¡Y eso es todo! Ahora Barbie puede realizar sus cálculos de una manera divertida y a la moda.
+¡Y eso es todo! Ahora cualquier persona puede realizar sus cálculos al estilo Barbie: de una manera divertida y a la moda.
 
 ## Contribuciones
 
@@ -40,10 +40,11 @@ Todos los derechos están reservados para la marca Barbie. Este proyecto es una 
 
 ## Propósito del Proyecto
 
-Este proyecto tiene como objetivo principal el aprendizaje y la práctica del desarrollo web. La elección de Barbie como temática es un homenaje a la marca, pero tanto las imágenes como logos pertenecen a Mattel por lo que NO ME PERTENECEN sus derechos y las utilizo únicamente con un fin educativo y de investigación para mejorar como programadora.
+Este proyecto ha sido inspirado por ["Calculator App" de Frontend Projects](https://frontendsprojects.com/calculator/) y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo web. La elección de Barbie como temática es un homenaje a la marca, pero tanto las imágenes como logos pertenecen a Mattel por lo que NO ME PERTENECEN sus derechos y las utilizo únicamente con un fin educativo y de investigación para mejorar como programadora.
 
 ## Recursos utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
 - [Frontend Projects: Calculator App](https://frontendsprojects.com/calculator/)
-- [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
+- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+- [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+- [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
