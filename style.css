@@ -10,19 +10,17 @@ body {
 }
 
 /* Image Style */
-/* Image Style */
 .barbie {
   width: auto;
   height: 60px;
   position: fixed;
   top: 75px;
-  /* Ajusta este valor según tus necesidades */
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
   z-index: 2;
 }
 
-/* Center calculator */
+/* Calculator */
 .calculator {
   position: fixed;
   top: 322px;
@@ -60,6 +58,7 @@ body {
   color: #fff;
 }
 
+/* Data about the cells (buttons) of the calculator */
 table {
   background-color: #f08dbc;
   border-collapse: collapse;
@@ -99,12 +98,14 @@ input[type="button"]:hover {
   transition: all 0.3s linear;
 }
 
+/* We change the font-family of the dot so it'll be round */
 #point {
   font-family: "Lato", sans-serif;
   font-size: 25px;
   padding-bottom: 10px;
 }
 
+/* Footer */
 footer {
   position: fixed;
   bottom: 0;
