@@ -18,8 +18,8 @@ Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la
 
 ## 🌱 Características
 
-- **Interfaz:** Diseño sencillo y colorido adaptado al estilo inconfundible de Barbie.
-- **Funciones matemáticas básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
+- **Interfaz:** Diseño sencillo y vibrante, siguiendo el estilo inconfundible de Barbie.
+- **Funciones matemáticas básicas:** Resuelve cualquier problema con suma, resta, multiplicación y división.
 
 ## 🛠️ Tecnologías Utilizadas
 
