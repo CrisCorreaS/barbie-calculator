@@ -49,11 +49,14 @@ Este proyecto ha sido inspirado por ["Calculator App" de Frontend Projects](http
 ## 👌 Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Frontend Projects: Calculator App](https://frontendsprojects.com/calculator/)
-- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
-- [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
-- [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+- CSS:
+  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+- JavaScript:
+  - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+  - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Google Fonts:
+  -  [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
+  - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 
 ## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
