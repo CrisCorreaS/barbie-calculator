@@ -31,7 +31,7 @@ Esta calculadora diseñada especialmente para Barbie y cualquer entusiasta de la
 > [!IMPORTANT]
 > - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript.
 > - Está desarrollado utilizando JavaScript Vanilla, así que no se utiliza ningún framework. Sin embargo, si estás buscando un poco más de desafío, ¡siéntete libre de explorar la posibilidad de integrar un framework!
-> - **Nivel de dificultad del proyecto:** 🔴🔴⭕⭕⭕⭕⭕⭕⭕⭕ (2 sobre 10)
+> - **Nivel de dificultad del proyecto:** 🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕ (1 sobre 10)
 
 > [!TIP]
 > A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
